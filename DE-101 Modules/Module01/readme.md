@@ -1,20 +1,14 @@
 # Задание для модуля 1
 
 ```
-Результаты домашней работы загружайте к себе в git репозиторий. Создайте папки
+Создана структура резпозитория для выполнения домашних заданий
 DE-101/Module1/
-DE-101/Module2/
-...
-И сохраняйте там результат.
+
 ```
 
-## Установка GitHub
+## Установлен github
 
-1. Прочитать про [Git на русском](http://bi0morph.github.io/hello-world/).
-2. Если вы не работали с командной строкой, то пройдите это курс [introduction into Shell](https://www.datacamp.com/courses/introduction-to-shell-for-data-science). Не обязательно понимать, что такое Shell/bash. Это для нас просто инструмент для навигации и запуска приложений/команд, когда нет GUI (графического интерфейса). Мы будем использовать командную строку для управления Git и для работы с облаком.
-3. Установить Git по этой [инструкции](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20get%20git.md)
-
-Наша задача создать свой собственный репозиторий Git, где вы сможете хранить свои наработки, и мы потом сможем проверить по завершению курса. Также вам нужно будет синхронизировать наш репозиторий, чтобы скачать файлик Excel. Это можно сделать через GUI (как я делаю), но лучше лишний раз попрактиковаться с Command Line Interface (CLI - командной строкой).
+[Ссылка на репозиторий](https://github.com/tigroniks/datalearn)
 
 
 ## Архитектура Аналитического Решения
@@ -83,5 +77,5 @@ DE-101/Module2/
 ## Полезные материалы
 * [Алгоритм проектирования дашборда](https://youtu.be/xSp5ykKcQho) - общие правила проектирования высококачественных дашбордов
 * [Обзор дашборда|Гайд по BI](https://youtu.be/rxu8jmsvw98) - гайд по проектированию интерактивных отчетов в Excel (пример для superstore). 
-* [Пример отчета](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore%20-%20Dashboard.xlsx)
+* [Пример отчета](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore%20-%20Dashboard.xlsx)g
 * [Пошаговая инструкция](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/build_steps_dashboard.md)
