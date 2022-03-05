@@ -12,14 +12,14 @@ DE-101/Module1/
 
 
 ## Архитектура Аналитического Решения
-Необходимо нарисовать верхнеуровневую архитектуру аналитического решения по примеру теоретического видео, где я рассказывал об архитектуре ламоды. Необходимо использовать:
+
+Верхнеуровневая (трехуровневная) архитектура аналитического решения для клининговой компании
 - Source Layer - слой источников данных
 - Storage Layer - слой хранения данных 
 - Business Layer - слой для доступа к данным бизнес пользователей
 
-Необходимо использовать draw.io, Microsoft Visio Studio, Power Point или инструмент на выбор. 
+![Minion](https://github.com/tigroniks/datalearn/blob/main/DE-101%20Modules/Module01/1-7.jpg)
 
-Здесь вы можете найти [инструкции по установке draw.io](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20install%20drawio.md).
 
 ## Аналитика в Excel
 Используя данные Sample - Superstore.xls сделать:
